@@ -1,0 +1,10 @@
+{
+  "alert_id": "SEC-88219",
+  "timestamp": "2026-07-27T14:20:10Z",
+  "event_type": "Multiple Failed Logins Followed by Success",
+  "source_ip": "185.220.101.5",
+  "destination_host": "prod-db-server-01",
+  "user_account": "admin_root",
+  "failed_attempts": 42,
+  "raw_log": "Failed password for root from 185.220.101.5 port 51102 ssh2; Accepted password for root from 185.220.101.5 port 51108 ssh2"
+}
