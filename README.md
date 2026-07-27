@@ -134,17 +134,6 @@ python app.py
 
 ![AI SOC Triage Output](screenshot.png)
 
-## Future Improvements
-
-* VirusTotal integration
-* AbuseIPDB integration
-* Multiple LLM support (Llama 3, Gemma, DeepSeek)
-* Streamlit-based dashboard
-* Docker containerization
-* SIEM integration (Splunk, Wazuh, Microsoft Sentinel)
-* Batch processing of alerts
-* PDF/HTML incident report generation
-
 ## Learning Outcomes
 
 This project demonstrates practical experience with:
